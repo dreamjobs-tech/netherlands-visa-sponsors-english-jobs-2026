@@ -1,0 +1,27 @@
+country_code,country,job_family,live_ads,english_ads_no_local_language_required,pct_open_to_english,ads_asking_for_local_language,ads_written_in_local_language
+DE,Germany,Engineering (non-software),5619,1405,25.0,2814,3372
+DE,Germany,Sales / Business development,5005,623,12.45,2253,3447
+DE,Germany,Software / IT,2786,1157,41.53,1200,1264
+NL,Netherlands,Engineering (non-software),2284,853,37.35,781,1162
+NL,Netherlands,Software / IT,1769,807,45.62,610,764
+DE,Germany,Logistics / Driving / Warehouse,1710,245,14.33,688,1244
+DE,Germany,Product / Project management,1597,259,16.22,843,1135
+DE,Germany,Healthcare,1480,125,8.45,334,1235
+NL,Netherlands,Finance / Accounting,1367,283,20.7,349,955
+DE,Germany,Finance / Accounting,1344,224,16.67,818,830
+DE,Germany,Admin / Operations,1328,234,17.62,737,783
+NL,Netherlands,Sales / Business development,1280,438,34.22,595,477
+NL,Netherlands,Admin / Operations,1119,315,28.15,423,650
+DE,Germany,Marketing / Communications,995,181,18.19,653,594
+NL,Netherlands,Marketing / Communications,800,234,29.25,285,441
+NL,Netherlands,Logistics / Driving / Warehouse,790,284,35.95,264,381
+DE,Germany,Customer service / Support,644,59,9.16,334,473
+NL,Netherlands,HR / Recruiting,627,76,12.12,256,486
+NL,Netherlands,Healthcare,594,60,10.1,67,484
+DE,Germany,HR / Recruiting,576,67,11.63,386,395
+NL,Netherlands,Product / Project management,469,236,50.32,167,168
+DE,Germany,Hospitality / Food,368,17,4.62,205,297
+NL,Netherlands,Hospitality / Food,306,137,44.77,85,129
+DE,Germany,Data / Analytics,302,88,29.14,165,184
+NL,Netherlands,Customer service / Support,257,57,22.18,138,149
+DE,Germany,Legal,215,18,8.37,120,135
