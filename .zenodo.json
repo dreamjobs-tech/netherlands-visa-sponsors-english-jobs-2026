@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Recognised Visa Sponsors and English-Speaking Job Ads in the Netherlands, November 2026",
+  "description": "Every IND-recognised sponsor (public register for work, 2026-11-03) with live job ads in the Netherlands, matched by organisation name to 28,577 live Dutch job ads seen November 10-24, 2026, with counts of ads open to English speakers and ads written in or asking for Dutch; plus German and Dutch cities and job families by share of English-friendly ads. Full report and method: https://www.qarera.com/reports/netherlands-visa-sponsors-english-jobs-2026",
+  "creators": [
+    {
+      "name": "Qarera",
+      "affiliation": "Qarera"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "Netherlands",
+    "IND",
+    "recognised sponsor",
+    "highly skilled migrant",
+    "English-speaking jobs",
+    "Dutch language",
+    "job ads",
+    "migration"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.qarera.com/reports/netherlands-visa-sponsors-english-jobs-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    }
+  ]
+}
