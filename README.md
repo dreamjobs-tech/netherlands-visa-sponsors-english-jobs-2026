@@ -1,6 +1,6 @@
 # Recognised Visa Sponsors and English-Speaking Job Ads in the Netherlands, November 2026
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24520893.svg)](https://doi.org/10.5281/zenodo.24520893)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24520892.svg)](https://doi.org/10.5281/zenodo.24520892)
 
 Aggregate counts from live job ads collected by [Qarera](https://www.qarera.com), ads open and seen **November 10 – 24, 2026**.
 
@@ -32,4 +32,4 @@ Every open job ad in Qarera's index in the Netherlands (28,577) and Germany (47,
 
 ## Citation
 
-> Qarera (2026). *Recognised Visa Sponsors and English-Speaking Job Ads in the Netherlands, November 2026* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24520893. CC BY 4.0.
+> Qarera (2026). *Recognised Visa Sponsors and English-Speaking Job Ads in the Netherlands, November 2026* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24520892. CC BY 4.0.
